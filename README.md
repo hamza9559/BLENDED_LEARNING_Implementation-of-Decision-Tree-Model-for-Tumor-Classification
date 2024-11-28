@@ -24,7 +24,7 @@ Predict using the test set and calculate accuracy, generate a classification rep
 7. Visualize Results
 Plot a heatmap of the confusion matrix to assess prediction performance.
 ## Program:
-```
+```c
 /*
 Program to  implement a Decision Tree model for tumor classification.
 Developed by: HAMZA FAROOQUE
